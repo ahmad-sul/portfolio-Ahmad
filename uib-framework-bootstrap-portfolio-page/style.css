@@ -1,0 +1,11 @@
+body {
+  background-image: url(/images/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 90vh;
+
+}
+.d-block {
+    width: 30px;
+    height: 30px;
+}
